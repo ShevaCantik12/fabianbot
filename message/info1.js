@@ -12,11 +12,7 @@ return`
 *│▸* Voice : Nina kawai
 *│*
 *│▸* SCRIPT BY
-*│*   Decode Denpa
-*│*   X-Dev Team
-*│*   Yogi PW
-*│*   Hexagon
-*│*   Dttaz
+*│*   Vells/Deva ( gua )
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
