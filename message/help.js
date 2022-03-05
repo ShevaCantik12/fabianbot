@@ -450,30 +450,12 @@ ${week}, ${calender}
 *│*
 *╰────────────⦁*
 
-*╭─❲ MODE WAR ❳*
-*│*
-*│▸* ${prefix}bugv1 
-*│▸* ${prefix}bugv2 
-*│▸* ${prefix}bugv3 
-*│▸* ${prefix}bugv4 
-*│▸* ${prefix}bugv5     
-*│▸* ${prefix}bugvn    
-*│▸* ${prefix}amaterasu 
-*│*
-*╰────────────⦁*
-
 *╭─❲ THANKS TO ❳*
 *│*
-*│* • Dittaz
-*│* • Nina Kawai
-*│* • Resta Gamteng :v
-*│* • Zeeone Ofc
-*│* • Yudha Perdana
-*│* • Yogi PW
-*│* • Decode Denpa
-*│* • Fernazer
-*│* • X - Dev Team
-*│* • XChillDs & Yuzu
+*│* • Allah SWT
+*│* • Nabi Muhammad
+*│* • Keluarga ( gua )
+*│* • Vells / Deva ( gua )
 *│*
 *╰────────────⦁*`
 }
